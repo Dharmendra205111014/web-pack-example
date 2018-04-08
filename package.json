@@ -1,0 +1,21 @@
+{
+  "name": "web-pack-example",
+  "version": "1.0.0",
+  "description": "wep-pack sample project ",
+  "author": "dharmendra.patel26@gmail.com",
+  "license": "ISC",
+  "main": "index.js",
+  "keywords": [
+    "webpack"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "webpack": "^4.5.0"
+  },
+  "engines": {
+    "node": ">= 7.10.0",
+    "npm": ">= 4.2.0"
+  }
+}
