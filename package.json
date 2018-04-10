@@ -1,6 +1,6 @@
 {
   "name": "web-pack-example",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "wep-pack sample project ",
   "author": "dharmendra.patel26@gmail.com",
   "license": "ISC",
@@ -10,9 +10,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish-bugFix" :"npm version patch -m 'upgraded to %s for test' && git push && git push --tags",
-    "publish-minor" : "",
-    "publish-release" : ""
+    "publish-bugFix": "npm version patch -m 'upgraded to %s for test' && git push && git push --tags",
+    "publish-minor": "",
+    "publish-release": ""
   },
   "devDependencies": {
     "webpack": "^4.5.0"
