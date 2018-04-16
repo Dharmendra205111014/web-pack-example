@@ -1,0 +1,7 @@
+@mixin box {
+    display: block;
+    min-height: 100px;
+    min-width: 100px;
+    border: 2px solid blanchedalmond;
+    padding: 10px;
+}
